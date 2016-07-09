@@ -1,0 +1,17 @@
+/*
+CSS is a search engine we write search queries that 
+are run on the HTML when the css loads
+*/
+body {
+	background-color: orange;
+}
+
+h2 {color: white;}
+
+.main-title {
+	color: green;
+}
+
+body h1.main-title {
+	color: black;
+}
